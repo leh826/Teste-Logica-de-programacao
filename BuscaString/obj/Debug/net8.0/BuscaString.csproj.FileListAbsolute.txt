@@ -1,0 +1,14 @@
+C:\Users\Leticia\source\repos\BuscaString\obj\Debug\net8.0\BuscaString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leticia\source\repos\BuscaString\obj\Debug\net8.0\BuscaString.AssemblyInfoInputs.cache
+C:\Users\Leticia\source\repos\BuscaString\obj\Debug\net8.0\BuscaString.AssemblyInfo.cs
+C:\Users\Leticia\source\repos\BuscaString\obj\Debug\net8.0\BuscaString.csproj.CoreCompileInputs.cache
+C:\Users\Leticia\source\repos\BuscaString\bin\Debug\net8.0\BuscaString.exe
+C:\Users\Leticia\source\repos\BuscaString\bin\Debug\net8.0\BuscaString.deps.json
+C:\Users\Leticia\source\repos\BuscaString\bin\Debug\net8.0\BuscaString.runtimeconfig.json
+C:\Users\Leticia\source\repos\BuscaString\bin\Debug\net8.0\BuscaString.dll
+C:\Users\Leticia\source\repos\BuscaString\bin\Debug\net8.0\BuscaString.pdb
+C:\Users\Leticia\source\repos\BuscaString\obj\Debug\net8.0\BuscaString.dll
+C:\Users\Leticia\source\repos\BuscaString\obj\Debug\net8.0\refint\BuscaString.dll
+C:\Users\Leticia\source\repos\BuscaString\obj\Debug\net8.0\BuscaString.pdb
+C:\Users\Leticia\source\repos\BuscaString\obj\Debug\net8.0\BuscaString.genruntimeconfig.cache
+C:\Users\Leticia\source\repos\BuscaString\obj\Debug\net8.0\ref\BuscaString.dll
